@@ -1,0 +1,8 @@
+
+Date: Sun 10 Mar 23:09:21 MSK 2024
+Time: 23:09:21
+
+Registered users:
+pango    tty2         2024-03-10 21:35 (:0)
+System uptime:
+ 23:09:21  up   1:36,  1 user,  load average: 0,42, 0,63, 0,65
